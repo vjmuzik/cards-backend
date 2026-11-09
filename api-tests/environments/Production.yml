@@ -1,9 +1,11 @@
-# Replace the address with your site's hostname from Step 7 (like https://cards-jsmith.duckdns.org)
 name: Production
 variables:
   - name: baseURL
-    value: https://your-hostname
+    value: https://cards.vjmuzik.dev
+    description: ""
   - name: login
     value: johnaedo
+    description: ""
   - name: password
     value: ucf123!
+    description: ""
