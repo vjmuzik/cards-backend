@@ -1,4 +1,11 @@
 name: Development
 variables:
   - name: baseURL
-    value: http://localhost:5000
+    value: http://localhost:5001
+    description: ""
+  - name: login
+    value: johnaedo
+    description: ""
+  - name: password
+    value: ucf123!
+    description: ""
